@@ -1,0 +1,40 @@
+footer{
+    bottom: 0;
+    width: 85%;
+    margin: 4rem auto;
+    padding-bottom: 20px;
+}
+
+.footertext{
+    font-size: 18px;
+    font-size: 400;
+    margin: 10px 5px;
+
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footerinfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footersocials{
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 600px) {
+    .footerinfo{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .footertext{
+    font-size: 14px;
+    }
+}

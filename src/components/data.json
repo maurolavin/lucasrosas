@@ -1,0 +1,155 @@
+[{
+    "ID": "1",
+    "project": "Glocks",
+    "project-title": "Acru & Foyone",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/1.jpg",
+    "link": "https://youtu.be/Nruk0yUNZuU",
+    "embed": "https://www.youtube.com/embed/Nruk0yUNZuU",
+    "frames": ["/assets/frames/1/glocks-1.jpg", "/assets/frames/1/glocks-2.jpg", "/assets/frames/1/glocks-3.jpg", "/assets/frames/1/glocks-4.jpg", "/assets/frames/1/glocks-5.jpg", "/assets/frames/1/glocks-6.jpg"]
+},
+{
+    "ID": "2",
+    "project": "Kristal",
+    "project-title": "Tobi",
+    "description": "Codirect y edit",
+    "category": "music-video",
+    "img": "/assets/2.jpg",
+    "link": "https://youtu.be/-UWm5PnddR0",
+    "embed": "https://www.youtube.com/embed/-UWm5PnddR0",
+    "frames": ["/assets/frames/2/kristal-1.jpg", "/assets/frames/2/kristal-2.jpg", "/assets/frames/2/kristal-3.jpg", "/assets/frames/2/kristal-4.jpg", "/assets/frames/2/kristal-5.jpg", "/assets/frames/2/kristal-6.jpg"]
+},
+{
+    "ID": "3",
+    "project": "Sure",
+    "project-title": "Frane",
+    "description": "Codirect y edit",
+    "category": "music-video",
+    "img": "/assets/3.jpg",
+    "link": "https://youtu.be/8YC0f9ioW8I",
+    "embed": "https://www.youtube.com/embed/8YC0f9ioW8I",
+    "frames": ["/assets/frames/3/sure-1.jpg", "/assets/frames/3/sure-2.jpg", "/assets/frames/3/sure-3.jpg", "/assets/frames/3/sure-4.jpg", "/assets/frames/3/sure-5.jpg", "/assets/frames/3/sure-6.jpg"]
+},
+{
+    "ID": "4",
+    "project": "Amor de Pasti",
+    "project-title": "Tobi",
+    "description": "Codirect, guión y edit",
+    "category": "music-video",
+    "img": "/assets/4.jpg",
+    "link": "https://youtu.be/r2FtNqZyIDg",
+    "embed": "https://www.youtube.com/embed/r2FtNqZyIDg",
+    "frames": ["/assets/frames/4/amordepasti-1.jpg", "/assets/frames/4/amordepasti-2.jpg", "/assets/frames/4/amordepasti-3.jpg", "/assets/frames/4/amordepasti-4.jpg", "/assets/frames/4/amordepasti-5.jpg", "/assets/frames/4/amordepasti-6.jpg"]
+},
+{
+    "ID": "5",
+    "project": "Osnis",
+    "project-title": "Saje X Veeyam",
+    "description": "Dirección, 3d & postproducción",
+    "category": "album-concept",
+    "img": "/assets/5.jpg",
+    "link": "https://youtu.be/HdCpzDSzY3Y",
+    "embed": "https://www.youtube.com/embed/HdCpzDSzY3Y",
+    "frames": ["/assets/frames/5/osnis-1.jpg", "/assets/frames/5/osnis-2.jpg", "/assets/frames/5/osnis-3.jpg", "/assets/frames/5/osnis-4.jpg", "/assets/frames/5/osnis-5.jpg", "/assets/frames/5/osnis-6.jpg"]
+},
+{
+    "ID": "6",
+    "project": "Diamantes",
+    "project-title": "Franqui Quiroga",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/6.jpg",
+    "link": "https://youtu.be/kb9lmavZ3F4",
+    "embed": "https://www.youtube.com/embed/kb9lmavZ3F4",
+    "frames": ["/assets/frames/6/diamantes-1.jpg", "/assets/frames/6/diamantes-2.jpg", "/assets/frames/6/diamantes-3.jpg", "/assets/frames/6/diamantes-4.jpg", "/assets/frames/6/diamantes-5.jpg", "/assets/frames/6/diamantes-6.jpg"]
+},
+{
+    "ID": "7",
+    "project": "Tantas Canciones",
+    "project-title": "Frozouda",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/7.jpg",
+    "link": "https://youtu.be/e54fgKGSSyI",
+    "embed": "https://www.youtube.com/embed/e54fgKGSSyI",
+    "frames": ["/assets/frames/7/tantascanciones-1.jpg", "/assets/frames/7/tantascanciones-2.jpg", "/assets/frames/7/tantascanciones-3.jpg", "/assets/frames/7/tantascanciones-4.jpg", "/assets/frames/7/tantascanciones-5.jpg", "/assets/frames/7/tantascanciones-6.jpg"]
+},
+{
+    "ID": "8",
+    "project": "Demasiado Acá",
+    "project-title": "Tobi",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/8.jpg",
+    "link": "https://youtu.be/DeKA7NKlIcA",
+    "embed": "https://www.youtube.com/embed/DeKA7NKlIcA",
+    "frames": ["/assets/frames/8/demasiadoaca-1.jpg", "/assets/frames/8/demasiadoaca-2.jpg", "/assets/frames/8/demasiadoaca-3.jpg", "/assets/frames/8/demasiadoaca-4.jpg", "/assets/frames/8/demasiadoaca-5.jpg", "/assets/frames/8/demasiadoaca-6.jpg"]
+},
+{
+    "ID": "9",
+    "project": "En alta",
+    "project-title": "Tobiah",
+    "description": "Dirección, realización y edit",
+    "category": "music-video",
+    "img": "/assets/9.jpg",
+    "link": "https://youtu.be/8s20wm7lZAI",
+    "embed": "https://www.youtube.com/embed/8s20wm7lZAI",
+    "frames": ["/assets/frames/9/enalta-1.jpg", "/assets/frames/9/enalta-2.jpg", "/assets/frames/9/enalta-3.jpg", "/assets/frames/9/enalta-4.jpg", "/assets/frames/9/enalta-5.jpg", "/assets/frames/9/enalta-6.jpg"]
+},
+{
+    "ID": "10",
+    "project": "No Genesis",
+    "project-title": "Sastro",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/10.jpg",
+    "link": "https://youtu.be/AJHcoFKEzrc",
+    "embed": "https://www.youtube.com/embed/AJHcoFKEzrc",
+    "frames": ["/assets/frames/10/nogenesis-1.jpg", "/assets/frames/10/nogenesis-2.jpg", "/assets/frames/10/nogenesis-3.jpg", "/assets/frames/10/nogenesis-4.jpg", "/assets/frames/10/nogenesis-5.jpg", "/assets/frames/10/nogenesis-6.jpg"]
+},
+{
+    "ID": "11",
+    "project": "Calma",
+    "project-title": "Tobiah",
+    "description": "Codirect y edit",
+    "category": "music-video",
+    "img": "/assets/11.jpg",
+    "link": "https://youtu.be/DCiQVPM3T4Q",
+    "embed": "https://www.youtube.com/embed/DCiQVPM3T4Q",
+    "frames": ["/assets/frames/11/calma-1.jpg", "/assets/frames/11/calma-2.jpg", "/assets/frames/11/calma-3.jpg", "/assets/frames/11/calma-4.jpg", "/assets/frames/11/calma-5.jpg", "/assets/frames/11/calma-6.jpg"]
+},
+{
+    "ID": "12",
+    "project": "Fuera de Casa",
+    "project-title": "Tobi ft Luckra",
+    "description": "Codirect y edit",
+    "category": "music-video",
+    "img": "/assets/12.jpg",
+    "link": "https://youtu.be/urr3JESJCWk",
+    "embed": "https://www.youtube.com/embed/urr3JESJCWk",
+    "frames": ["/assets/frames/12/fueradecasa-1.jpg", "/assets/frames/12/fueradecasa-2.jpg", "/assets/frames/12/fueradecasa-3.jpg", "/assets/frames/12/fueradecasa-4.jpg", "/assets/frames/12/fueradecasa-5.jpg", "/assets/frames/12/fueradecasa-6.jpg"]
+},
+{
+    "ID": "13",
+    "project": "Intramar",
+    "project-title": "Frane",
+    "description": "Dirección y edit",
+    "category": "music-video",
+    "img": "/assets/13.jpg",
+    "link": "https://youtu.be/3OepzhRPc2Y",
+    "embed": "https://www.youtube.com/embed/3OepzhRPc2Y",
+    "frames": ["/assets/frames/13/intramar-1.jpg", "/assets/frames/13/intramar-2.jpg", "/assets/frames/13/intramar-3.jpg", "/assets/frames/13/intramar-4.jpg", "/assets/frames/13/intramar-5.jpg", "/assets/frames/13/intramar-6.jpg"]
+},
+{
+    "ID": "14",
+    "project": "Bars Collection",
+    "project-title": "Brapis",
+    "description": "",
+    "category": "album-concept",
+    "img": "/assets/14.jpg",
+    "link": "https://youtu.be/AKKyWFlUJvw",
+    "embed": "https://www.youtube.com/embed/AKKyWFlUJvw",
+    "frames": ["/assets/frames/14/barscollection-1.jpg", "/assets/frames/14/barscollection-2.jpg", "/assets/frames/14/barscollection-3.jpg", "/assets/frames/14/barscollection-4.jpg", "/assets/frames/14/barscollection-5.jpg", "/assets/frames/14/barscollection-6.jpg"]
+}
+]
