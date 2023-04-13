@@ -18,6 +18,10 @@
     box-sizing: border-box;
 }
 
+.category-button:focus{
+    background-color: #333333;
+}
+
 .category-sortby{
     font-weight: 400;
     font-size: 1.5rem;
@@ -34,7 +38,7 @@
     grid-template-columns: repeat(3, 1fr);
     grid-auto-rows: 290px;
     gap: 20px;
-    padding: 1rem;
+    padding: 15px;
 }
 
 .project {
@@ -64,7 +68,7 @@
     cursor: pointer;
     padding: 0 0 10px 0;
     transition: ease-in-out 160ms;
-    filter: brightness(0.8);
+    filter: brightness(0.89);
 }
 
 .gallery-item:hover{

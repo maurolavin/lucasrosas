@@ -35,6 +35,7 @@
 
 .image-grid-img {
   background-size: cover;
+  aspect-ratio: 16/9;
 }
 
 .close {
