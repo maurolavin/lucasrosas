@@ -58,7 +58,7 @@ function Gallery() {
                     &times;
                 </span>
                 <div className='modalVideoContainer'>
-                <iframe src={selectedProject.embed} alt={selectedProject.description} allow="fullscreen"/>
+                <iframe src={selectedProject.embed} alt={selectedProject.description} frameborder="0" allowfullscreen/>
                 </div>
                 <div className='modalTextContainer'>
                     <h2 className='modal-project'>{selectedProject.project}</h2>
