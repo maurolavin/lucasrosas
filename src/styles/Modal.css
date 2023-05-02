@@ -78,6 +78,10 @@ iframe {
   letter-spacing: -0.06rem;
 }
 
+.modalVideoContainer{
+  margin-top: 110px;
+}
+
 @media (max-width: 1400px) {
   .image-grid {
     display: grid;

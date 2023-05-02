@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import data from './data.json';
 import "../styles/Gallery.css";
 import "../styles/Modal.css";
+import "../styles/ImageGrid.css"
+
 import ImageGrid from './ImageGrid';
 
 function Gallery() {
@@ -63,9 +65,6 @@ function Gallery() {
                 <div className='modalTextContainer'>
                     <h2 className='modal-project'>{selectedProject.project}</h2>
                     <p>{selectedProject.description}</p>
-                    <a className="modal-watch" href={selectedProject.link} target="_blank" rel="noopener noreferrer">
-                        <strong>Ver</strong>
-                    </a>
                     <div>
                         <ImageGrid frames={selectedProject.frames} className="modalFrames"/>
                     </div>
