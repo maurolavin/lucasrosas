@@ -35,11 +35,10 @@ function Gallery() {
     return (
     <div>
         <div className="category-buttons">
-            <p className='category-sortby'>sort by</p>
+            <p className='category-sortby'>sort by.</p>
             <button onClick={() => handleCategoryClick('all')} className="category-button">all</button>
             <button onClick={() => handleCategoryClick('music-video')} className="category-button">/ music videos </button>
             <button onClick={() => handleCategoryClick('album-concept')} className="category-button">/ album concept video </button>
-            <button onClick={() => handleCategoryClick('documental')} className="category-button">/ documental</button>
         </div>
         <div className="gallery">
         {filteredProjects.map((project) => (
@@ -62,10 +61,8 @@ function Gallery() {
                 </div>
                 <div className='modalTextContainer'>
                     <h2 className='modal-project'>{selectedProject.project}</h2>
+                    <hr className="divider" />
                     <p>{selectedProject.description}</p>
-                    <a className="modal-watch" href={selectedProject.link} target="_blank" rel="noopener noreferrer">
-                        <strong>Ver</strong>
-                    </a>
                     <div>
                         <ImageGrid frames={selectedProject.frames} className="modalFrames"/>
                     </div>
